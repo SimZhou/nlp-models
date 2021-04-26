@@ -1,0 +1,5 @@
+[core]
+    remote = aliyunoss
+['remote "aliyunoss"']
+    url = oss://simzhou-oss/dvc/
+    oss_endpoint = https://oss-cn-shanghai.aliyuncs.com
